@@ -18,6 +18,11 @@
 		191528B616D1AD9400678FD9 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 191528B516D1AD9400678FD9 /* Default-568h@2x.png */; };
 		191528B916D1AD9400678FD9 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 191528B716D1AD9400678FD9 /* MainStoryboard.storyboard */; };
 		191528BC16D1AD9400678FD9 /* thgpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 191528BB16D1AD9400678FD9 /* thgpViewController.m */; };
+		19186FF416ED310C00098724 /* beyonce.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19186FEF16ED310C00098724 /* beyonce.jpg */; };
+		19186FF516ED310C00098724 /* boyz to men.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19186FF016ED310C00098724 /* boyz to men.jpg */; };
+		19186FF616ED310C00098724 /* charlie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19186FF116ED310C00098724 /* charlie.jpg */; };
+		19186FF716ED310C00098724 /* tlc.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19186FF216ED310C00098724 /* tlc.jpg */; };
+		19186FF816ED310C00098724 /* usher.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19186FF316ED310C00098724 /* usher.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +42,11 @@
 		191528B816D1AD9400678FD9 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		191528BA16D1AD9400678FD9 /* thgpViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = thgpViewController.h; sourceTree = "<group>"; };
 		191528BB16D1AD9400678FD9 /* thgpViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = thgpViewController.m; sourceTree = "<group>"; };
+		19186FEF16ED310C00098724 /* beyonce.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = beyonce.jpg; path = "../../../../../SoftDev/R&B Quiz/R&B Quiz/5 pics/beyonce.jpg"; sourceTree = "<group>"; };
+		19186FF016ED310C00098724 /* boyz to men.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "boyz to men.jpg"; path = "../../../../../SoftDev/R&B Quiz/R&B Quiz/5 pics/boyz to men.jpg"; sourceTree = "<group>"; };
+		19186FF116ED310C00098724 /* charlie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = charlie.jpg; path = "../../../../../SoftDev/R&B Quiz/R&B Quiz/5 pics/charlie.jpg"; sourceTree = "<group>"; };
+		19186FF216ED310C00098724 /* tlc.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = tlc.jpg; path = "../../../../../SoftDev/R&B Quiz/R&B Quiz/5 pics/tlc.jpg"; sourceTree = "<group>"; };
+		19186FF316ED310C00098724 /* usher.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = usher.jpg; path = "../../../../../SoftDev/R&B Quiz/R&B Quiz/5 pics/usher.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +93,11 @@
 		191528A516D1AD9400678FD9 /* rbQuizApp */ = {
 			isa = PBXGroup;
 			children = (
+				19186FEF16ED310C00098724 /* beyonce.jpg */,
+				19186FF016ED310C00098724 /* boyz to men.jpg */,
+				19186FF116ED310C00098724 /* charlie.jpg */,
+				19186FF216ED310C00098724 /* tlc.jpg */,
+				19186FF316ED310C00098724 /* usher.jpg */,
 				191528AE16D1AD9400678FD9 /* thgpAppDelegate.h */,
 				191528AF16D1AD9400678FD9 /* thgpAppDelegate.m */,
 				191528B716D1AD9400678FD9 /* MainStoryboard.storyboard */,
@@ -164,6 +179,11 @@
 				191528B416D1AD9400678FD9 /* Default@2x.png in Resources */,
 				191528B616D1AD9400678FD9 /* Default-568h@2x.png in Resources */,
 				191528B916D1AD9400678FD9 /* MainStoryboard.storyboard in Resources */,
+				19186FF416ED310C00098724 /* beyonce.jpg in Resources */,
+				19186FF516ED310C00098724 /* boyz to men.jpg in Resources */,
+				19186FF616ED310C00098724 /* charlie.jpg in Resources */,
+				19186FF716ED310C00098724 /* tlc.jpg in Resources */,
+				19186FF816ED310C00098724 /* usher.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

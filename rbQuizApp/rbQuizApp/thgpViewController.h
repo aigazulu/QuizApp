@@ -16,14 +16,22 @@
     UILabel * question;
     UITextField * submitAnswer;
     UILabel * answerStatus;
+    int currentQuestion; 
+    NSArray * questionArray;
+    NSArray * answerArray;
+    NSArray * pictureArray;
+    UIButton * nextQuestion;
+    UIButton * submitButton;
 }
-
 @property (nonatomic, retain) IBOutlet UILabel *UILabelquestionNumber;
- @property (nonatomic, retain) IBOutlet UILabel *UILabelartistName;
-@property (nonatomic, retain) UIImageView *artistPicture;
+ @property (nonatomic, retain)IBOutlet UILabel *UILabelartistName;
+@property (nonatomic, retain) IBOutlet UIImageView *artistPicture;
 @property (nonatomic, retain) IBOutlet UILabel * UILabelquestion;
-@property (nonatomic, retain) UITextField *answer;
+@property (nonatomic, retain) IBOutlet UITextField *answer;
 @property (nonatomic, retain) IBOutlet UILabel * UILabelanswerStatus;
+@property (nonatomic, retain) IBOutlet UIButton *nextQuestion;
+@property (nonatomic, retain) IBOutlet UIButton *submitButton; 
+@property (nonatomic) int currentQuestion; 
 
 -(IBAction)submitButtonClicked:(id)sender;
 -(IBAction)nextQuestionButtonClicked:(id)sender;
